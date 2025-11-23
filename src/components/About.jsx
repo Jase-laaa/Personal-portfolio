@@ -12,25 +12,19 @@ const About = () => {
             </div>
 
             <p className="text-xl mt-20">
-               Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-               In quas, quae quod repudiandae laborum deserunt eum id, 
-               molestias explicabo minus sequi! Molestias, obcaecati! 
-               Deleniti vero earum libero nesciunt molestias adipisci 
-               optio maxime ratione praesentium ullam aut explicabo totam 
-               harum, necessitatibus voluptatum, id sed fuga. Ad earum assumenda 
-               ullam nam maxime. 
+              I am a full stack developer for about half a year of experience in building scalable products.
+                    
+                          I have participated in a number of tech programs where I acquired both technical and soft skills. 
+                          I have also acquired high level  <br />
+                          programming skills from online courses. I am a self-taught software developer with a strong discipline to learn, improve, and evolve.
+                    
+                          When I am not coding, I am either playing Video game, watching a movie, reading a book, at the gym or playing the guirtar. Other times
+                          I am reading or learning a new language or framework.  <br />
+                        
+                          Currently looking for entry level as Back-end or front-end position at the moment
             </p>
 
             <br />
-
-            <p className="text-xl">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                 Cum commodi repellat velit, iure repudiandae nisi quas est 
-                 explicabo alias deleniti nulla voluptatum inventore non ducimus. 
-                 Maiores neque laboriosam aperiam incidunt consequatur quam. Ipsa 
-                 assumenda libero iure, illum laborum soluta ducimus? Totam architecto 
-                 praesentium, temporibus adipisci magnam consectetur fugit recusandae id?
-            </p>
         </div>
 
     </div>;
